@@ -17,7 +17,6 @@ public class Main {
         arvoreBinaria.remover(5);
         arvoreBinaria.remover(17);
         System.out.println();
-
         arvoreBinaria.exibir("Pos");
     }
 }
